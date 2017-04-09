@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musix</string>
+    <string name="library">Library</string>
+    <string name="radio">Radio</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="now">Now Playing</string>
+    <string name="libraryTextView">Library Activity displays all the collection of songs</string>
+    <string name="radioTextView">Radio Activity contains details for connecting app with radio station of users choice</string>
+    <string name="artistsTextView">Artists Activity display songs by their artists</string>
+    <string name="albumsTextViews">Album Activity display songs by their album</string>
+    <string name="nowPlayingTextView">Now Playing Songs</string>
+</resources>

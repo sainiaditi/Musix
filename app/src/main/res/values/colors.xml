@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#26a69a</color>
+    <color name="library">#f44336</color>
+    <color name="radio">#fb8c00</color>
+    <color name="artists">#f06292</color>
+    <color name="album">#00bcd4</color>
+    <color name="nowPlaying">#5d4037</color>
+    <color name="bg">#26a69a</color>
+</resources>
+
